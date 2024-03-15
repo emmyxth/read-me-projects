@@ -1,4 +1,4 @@
-# Chime: Your Conversational Language Partner
+# Chime: Your AI Conversational Language Partner
 
 Chime is designed to fulfill the need for informal language learning where users can engage in practice with tailored vocabularies in a fun and interactive way. It’s a solution for those seeking to improve language skills without the fear of judgment and the pressure of time.
 
